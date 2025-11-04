@@ -1,0 +1,4 @@
+Przedmiot: System kontroli wersji (GIT)
+Repozytorium: my_first_repo_GIT_3
+Imię i nazwisko: Przemysław Jarosiński
+Nr słuchacza: 5073
