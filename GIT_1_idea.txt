@@ -1,0 +1,2 @@
+Przykład zastosowania systemu kontroli wersji - przykład z mojej aktualnej branży, tj. przemysłu rafineryjnego.
+Załóżmy, że prowadzimy analizę danych z różnych instalacji procesowych, w celu optymalizacji ich pracy. Podstawowy algorytm (czy algorytmy) opracują informatycy/analitycy "centralni", ale na każdej instalacji może znaleźć się inżynier, automatyk czy pasjonat tematu analizy danych, który znajdzie sposób na ulepszenie algorytmów pod swoją "działkę". Dobrze jest takie zmiany udostępniać i ewentualnie wcielać do głównego kodu.
