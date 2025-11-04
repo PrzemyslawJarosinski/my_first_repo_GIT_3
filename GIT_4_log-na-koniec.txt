@@ -1,0 +1,29 @@
+commit fc96b46757aa91312f4468869b8494d64c507b1d
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 18:11:00 2025 +0100
+
+    Dodano README
+
+commit 18aabf068baf6a2e348f93f007e6aac1e86e8ddb
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 18:04:56 2025 +0100
+
+    Dodano i zmieniono co nieco :)
+
+commit 6f7b3f0a464f2a4e5c887f0a4c4b9084d3314b13
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 17:59:08 2025 +0100
+
+    Zmodyfikowano plik GIT_2_version
+
+commit 43a16184bab87d3734833414956acac0dffc84a0
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 17:54:32 2025 +0100
+
+    Dodano pliki status1 i status2
+
+commit 425c9149fa37d999d038d9e5025ee7e4fe9ac5aa
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 17:49:42 2025 +0100
+
+    Dodano dwa pliki.
