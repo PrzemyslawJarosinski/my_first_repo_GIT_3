@@ -1,0 +1,2 @@
+Pierwsza zmiana: Utworzono nowy_plik, zacommitowano pusty, wpisano hello world, zapisano i zacommitowano nową wersję
+Druga zmiana: --- /dev null wskazuje, że drugiego_pliku początkowo nie było. Został utworzony, wpisano Lorem ipsum..., zapisano i zacommitowano dopiero wtedy
