@@ -1,0 +1,17 @@
+commit fc96b46757aa91312f4468869b8494d64c507b1d
+Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+Date:   Tue Nov 4 18:11:00 2025 +0100
+
+    Dodano README
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..592ef80
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++Przedmiot: System kontroli wersji (GIT)
++Repozytorium: my_first_repo_GIT_3
++Imię i nazwisko: Przemysław Jarosiński
++Nr słuchacza: 5073
+\ No newline at end of file

@@ -1,0 +1,7 @@
+10deb39 Dodano przykład 5
+200ace6 Nadprogramowo dodano wyciąg z loga ;)
+fc96b46 Dodano README
+18aabf0 Dodano i zmieniono co nieco :)
+6f7b3f0 Zmodyfikowano plik GIT_2_version
+43a1618 Dodano pliki status1 i status2
+425c914 Dodano dwa pliki.
