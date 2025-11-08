@@ -1,0 +1,23 @@
+* 3b05859 Dodajemy pliki GIT 8 cherry pick oraz GIT 8 rebase
+* eeb4d64 Dodałem GIT 8 branch i GIT 8 status wyjęte ze stosu
+*   45671c4 Merge branch 'test'
+|\  
+| * 6aa923f Dodałem GIT_8_diff
+| * ade5fd4 GIT_8_log.txt
+* | 4ee1bff Dodałem plik z listą wpisów w stosie
+|/  
+* 189b361 Dodałem plik z logiem w formie grafu (GIT_7_branch)
+*   2edccaa Konflikt rozwiązany
+|\  
+| * b5df70a Dopisałem coś do README na gałęzi test żeby był konflikt
+| * 8e44b7b Dodano pliki przykładu nr 7
+* | 4180eae Dopisałem coś do README na gałęzi main
+|/  
+* d30169b Dodano pliki GIT_6 z logami
+* 10deb39 Dodano przykład 5
+* 200ace6 Nadprogramowo dodano wyciąg z loga ;)
+* fc96b46 Dodano README
+* 18aabf0 Dodano i zmieniono co nieco :)
+* 6f7b3f0 Zmodyfikowano plik GIT_2_version
+* 43a1618 Dodano pliki status1 i status2
+* 425c914 Dodano dwa pliki.
