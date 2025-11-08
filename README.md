@@ -13,4 +13,4 @@ Ale zostawiam sobie też wpis z gałęzi test: Ten wpis ma narobić bałaganu do
 1. 8 listopada 2025
 2. 21:16
 
-`git init
+`git init`
