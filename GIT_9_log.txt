@@ -1,0 +1,123 @@
+* commit 463b13924e8f36cfcd9e00162c20cfa8a101ddaf
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Sat Nov 8 18:15:19 2025 +0100
+| 
+|     Dodałem ostatni plik w tym długim i męczącym przykładzie ^.^
+| 
+* commit 3b05859a5c007af77350ed03ae2b2f4d013f1a39
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Sat Nov 8 18:07:02 2025 +0100
+| 
+|     Dodajemy pliki GIT 8 cherry pick oraz GIT 8 rebase
+| 
+* commit eeb4d64fbdde00505a6910892bafc2eb196993eb
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Sat Nov 8 17:44:08 2025 +0100
+| 
+|     Dodałem GIT 8 branch i GIT 8 status wyjęte ze stosu
+|     
+|     Dodałem GIT 8 stan
+|   
+*   commit 45671c474d6305a9c37bb69070bcf5ab40719895
+|\  Merge: 4ee1bff 6aa923f
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Sat Nov 8 17:32:53 2025 +0100
+| | 
+| |     Merge branch 'test'
+| | 
+| * commit 6aa923fd12f35e5f676b1433b6b1d1bfc945376b
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Sat Nov 8 17:28:26 2025 +0100
+| | 
+| |     Dodałem GIT_8_diff
+| | 
+| * commit ade5fd41e43c396d02f2928eabe2842031d2d19c
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Sat Nov 8 17:02:35 2025 +0100
+| | 
+| |     GIT_8_log.txt
+| | 
+* | commit 4ee1bffba343c35f1783017e25aaa513e429b321
+|/  Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+|   Date:   Sat Nov 8 16:57:58 2025 +0100
+|   
+|       Dodałem plik z listą wpisów w stosie
+| 
+* commit 189b3610a21bddaa99430afe348e444d245cfb0d
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Wed Nov 5 18:25:56 2025 +0100
+| 
+|     Dodałem plik z logiem w formie grafu (GIT_7_branch)
+|   
+*   commit 2edccaae200ee40cbce00a75d0c77bd52601fdca
+|\  Merge: 4180eae b5df70a
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Wed Nov 5 18:13:28 2025 +0100
+| | 
+| |     Konflikt rozwiązany
+| | 
+| * commit b5df70a2490026b3f4f11745d2dd2959046c0ab2
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Wed Nov 5 17:50:29 2025 +0100
+| | 
+| |     Dopisałem coś do README na gałęzi test żeby był konflikt
+| | 
+| * commit 8e44b7bf0e11f2a90f2a3a3cbe4da95d792b42fe
+| | Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| | Date:   Wed Nov 5 17:35:28 2025 +0100
+| | 
+| |     Dodano pliki przykładu nr 7
+| | 
+* | commit 4180eaea394c9654d0dc1f5619fb3e6a8682fff7
+|/  Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+|   Date:   Wed Nov 5 17:48:15 2025 +0100
+|   
+|       Dopisałem coś do README na gałęzi main
+| 
+* commit d30169b07581e95cf25d7d690def89469fa988e8
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Wed Nov 5 16:51:56 2025 +0100
+| 
+|     Dodano pliki GIT_6 z logami
+| 
+* commit 10deb39bd53bdf13d4bc231a7625a9a6688eda27
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 18:53:14 2025 +0100
+| 
+|     Dodano przykład 5
+| 
+* commit 200ace66e88f7751e49377e34ee334a1f7f84b44
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 18:15:14 2025 +0100
+| 
+|     Nadprogramowo dodano wyciąg z loga ;)
+| 
+* commit fc96b46757aa91312f4468869b8494d64c507b1d
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 18:11:00 2025 +0100
+| 
+|     Dodano README
+| 
+* commit 18aabf068baf6a2e348f93f007e6aac1e86e8ddb
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 18:04:56 2025 +0100
+| 
+|     Dodano i zmieniono co nieco :)
+| 
+* commit 6f7b3f0a464f2a4e5c887f0a4c4b9084d3314b13
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 17:59:08 2025 +0100
+| 
+|     Zmodyfikowano plik GIT_2_version
+| 
+* commit 43a16184bab87d3734833414956acac0dffc84a0
+| Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+| Date:   Tue Nov 4 17:54:32 2025 +0100
+| 
+|     Dodano pliki status1 i status2
+| 
+* commit 425c9149fa37d999d038d9e5025ee7e4fe9ac5aa
+  Author: PrzemyslawJarosinski <przemyslaw.jarosinski@gmail.com>
+  Date:   Tue Nov 4 17:49:42 2025 +0100
+  
+      Dodano dwa pliki.
