@@ -1,0 +1,27 @@
+463b139 HEAD@{0}: reset: moving to HEAD~1
+7247168 HEAD@{1}: commit: Dodałem plik GIT 9 log
+463b139 HEAD@{2}: commit: Dodałem ostatni plik w tym długim i męczącym przykładzie ^.^
+3b05859 HEAD@{3}: cherry-pick: Dodajemy pliki GIT 8 cherry pick oraz GIT 8 rebase
+eeb4d64 HEAD@{4}: checkout: moving from test to main
+2645ddc HEAD@{5}: commit: Dodajemy pliki GIT 8 cherry pick oraz GIT 8 rebase
+6aa923f HEAD@{6}: checkout: moving from main to test
+eeb4d64 HEAD@{7}: checkout: moving from test to main
+6aa923f HEAD@{8}: checkout: moving from main to test
+eeb4d64 HEAD@{9}: rebase (finish): returning to refs/heads/main
+eeb4d64 HEAD@{10}: rebase (squash): Dodałem GIT 8 branch i GIT 8 status wyjęte ze stosu
+8e95665 HEAD@{11}: rebase (start): checkout HEAD~2
+f8886b6 HEAD@{12}: commit: Dodałem GIT 8 stan
+8e95665 HEAD@{13}: commit: Dodałem GIT 8 branch i GIT 8 status wyjęte ze stosu
+45671c4 HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+4ee1bff HEAD@{15}: checkout: moving from test to main
+6aa923f HEAD@{16}: checkout: moving from main to test
+4ee1bff HEAD@{17}: checkout: moving from test to main
+6aa923f HEAD@{18}: commit: Dodałem GIT_8_diff
+ade5fd4 HEAD@{19}: commit: GIT_8_log.txt
+189b361 HEAD@{20}: checkout: moving from main to test
+4ee1bff HEAD@{21}: commit: Dodałem plik z listą wpisów w stosie
+189b361 HEAD@{22}: reset: moving to HEAD
+189b361 HEAD@{23}: checkout: moving from test to main
+189b361 HEAD@{24}: checkout: moving from test to test
+189b361 HEAD@{25}: checkout: moving from main to test
+189b361 HEAD@{26}: clone: from https://github.com/PrzemyslawJarosinski/my_first_repo_GIT_3.git
