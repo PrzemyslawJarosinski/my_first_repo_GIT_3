@@ -1,9 +1,11 @@
 def hello():
-  print("hej! w tej linii kodu jest tabulator")
+    print("hej! poprawiłem na 4 spacje")
+
 
 def bye():
-    print("żegnaj! w tej linii kodu są 4 spacje, nie jestem pewien co będzie błędem ;)")
+    print("żegnaj! w tej linii kodu są 4 spacje i tak chyba jest ok")
+
 
 print(hello())
 
-#czy wywołanie hello to nie powinno być tylko hello() ?
+# czy wywołanie hello to nie powinno być tylko hello() ?
